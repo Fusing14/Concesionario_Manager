@@ -2,6 +2,9 @@ Aqui presento un juego donde eres el propietario de un concesionario que se dedi
 Presenta algunos bugs y fallos que posteriormente se arreglaran.
 Aun que actualmente solo sea una Alpha aqui dejo los controles y lo que hay que saber para poder probarlo.
 
+Para poder iniciarlo se descargaran las 4 clases de este repositorio.(JogoBonito.class, Empresario.class, Coche.class, Cliente.class)
+Tendras que crear un nuevo proyecto llamado JogoBonito con el que se creara el main de JogoBonito, ahi puedes o eliminarlo y meter los 4 archivos .class o hacer copia y pega del main.
+
 Para poder pasar del primer menu se tiene que introducir algun caracter.
 Una vez ya se te presente tu concesionario en pantalla los controles principales son:
 -Del 1 al 9 para presentar las caracteristicas de las plazas.
